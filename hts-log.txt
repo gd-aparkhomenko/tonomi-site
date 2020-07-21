@@ -1,0 +1,30 @@
+HTTrack3.49-2 launched on Tue, 21 Jul 2020 16:38:30 at http://tonomi.com/
+(httrack http://tonomi.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:38:31	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link tonomi.com/robots.txt (from primary/primary)
+16:38:48	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link tonomi.com/signup?source1=header (from tonomi.com/)
+16:38:48	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link tonomi.com/signup?source1=banner (from tonomi.com/)
+16:38:48	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link tonomi.com/signup?source1=footer (from tonomi.com/)
+16:38:48	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link tonomi.com/signup?source1=content&source2=pricing (from tonomi.com/pricing)
+16:38:49	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link tonomi.com/blog/blog-post-fujitsu-partnership (from tonomi.com/blog/summary)
+16:38:49	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link tonomi.com/blog/when-pigs-fly (from tonomi.com/blog/summary)
+16:38:49	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link tonomi.com/signup?source1=header (from tonomi.com/)
+16:38:49	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link tonomi.com/signup?source1=banner (from tonomi.com/)
+16:38:50	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link tonomi.com/signup?source1=footer (from tonomi.com/)
+16:38:50	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link tonomi.com/signup?source1=content&source2=pricing (from tonomi.com/pricing)
+16:38:50	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link tonomi.com/blog/blog-post-fujitsu-partnership (from tonomi.com/blog/summary)
+16:38:50	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link tonomi.com/blog/when-pigs-fly (from tonomi.com/blog/summary)
+16:38:51	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link tonomi.com/signup?source1=header (from tonomi.com/)
+16:38:51	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link tonomi.com/signup?source1=banner (from tonomi.com/)
+16:38:51	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link tonomi.com/signup?source1=footer (from tonomi.com/)
+16:38:51	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link tonomi.com/signup?source1=content&source2=pricing (from tonomi.com/pricing)
+16:38:51	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link tonomi.com/blog/blog-post-fujitsu-partnership (from tonomi.com/blog/summary)
+16:38:51	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link tonomi.com/blog/when-pigs-fly (from tonomi.com/blog/summary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 30 links scanned, 11 files written (475509 bytes overall) [128942 bytes received at 6140 bytes/sec], 475509 bytes transferred using HTTP compression in 11 files, ratio 24%, 6.0 requests per connection
+(7 errors, 12 warnings, 0 messages)
